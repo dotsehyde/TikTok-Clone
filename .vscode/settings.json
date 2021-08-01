@@ -1,0 +1,16 @@
+{
+    "emmet.preferences": {
+   
+    },
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.variables": {
+        "lang": "en",
+        "charset": "UTF-8"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+    },
+    "html.format.endWithNewline": true,
+    "eslint.format.enable": true
+}

@@ -1,0 +1,23 @@
+.main {
+  position: relative;
+  bottom: 50px;
+  color: white;
+  display: flex;
+}
+.videoFooterText {
+  flex: 1;
+}
+.cd-spin {
+  animation: spin infinite 5s linear;
+
+  height: 40px;
+  filter: invert(1);
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
